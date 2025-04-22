@@ -1,0 +1,29 @@
+{
+  "name": "console-color-pakage-nk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NaeemHk011/console-color-pakage.git"
+  },
+  "keywords": [
+    "console colors",
+    "colors",
+    "<itxkhaskheli@gmail.com>"
+  ],
+  "author": "Naeem Hussain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NaeemHk011/console-color-pakage/issues"
+  },
+  "homepage": "https://github.com/NaeemHk011/console-color-pakage#readme",
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}
